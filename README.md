@@ -2,7 +2,7 @@
 ### AI-Powered Retail KPI Analytics with LLM Reasoning
 
 A full agentic AI system for KPI monitoring, causal analysis, and business recommendations — powered by Claude (Anthropic).
-
+LIVE LINK: https://dataanalystaiagent-m7cukwhurgwgreqng6vh4e.streamlit.app/
 ---
 
 ## 🚀 Quick Start
